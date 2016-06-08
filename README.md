@@ -1,9 +1,9 @@
 # vieraskirja
-Omia testejä varten -->\n
+Omia testejä varten -->
 
--PHP tietokanta yhteys PDO oliolla
--JQuery päivittäminen
--REST testi
--Node.js testi
--Hybridi tietokantaan tallennus testi
+PHP tietokanta yhteys PDO oliolla, 
+JQuery päivittäminen, 
+REST testi, 
+Node.js testi, 
+Hybridi tietokantaan tallennus testi
 
